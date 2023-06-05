@@ -1,0 +1,16 @@
+.Tag {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.card {
+    flex-basis: 25%;
+    margin: 6px;
+}
